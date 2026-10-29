@@ -1,0 +1,2 @@
+﻿n,default_rate,train_n,test_n,lr_stat,lr_df,lr_pvalue,baseline_train_aic,nonlinear_train_aic,feature_count_baseline,missing_cells,random_state,pay_0_sd_train,pay_0_or_per_sd,pay_0_or_per_raw_level,diagnostics
+30000,0.2212,22500,7500,7.611234644318756,2,0.02224546031086544,20900.780260106665,20897.169025462346,28,0,42,1.1221409933279607,1.914111323750191,1.7835121909302063,vif；calibration_deciles；glm_influence_top100

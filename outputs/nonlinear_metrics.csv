@@ -1,0 +1,2 @@
+﻿model,pay_mode,nonlinear,train_n,test_n,train_aic,train_loglik,test_auc,test_pr_auc,test_brier,test_accuracy_0_5,converged,iterations
+nonlinear,continuous,True,22500,7500,20897.169025462346,-10417.584512731173,0.7176701579190317,0.5031972614074135,0.14549065456472499,0.8094666666666667,True,6
